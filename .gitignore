@@ -1,0 +1,9 @@
+# Binaries
+**/bin/
+
+#cmake files
+**/CMakeLists.txt
+cmake-build-*/
+
+# Jetbrains files
+**/.idea/
